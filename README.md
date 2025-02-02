@@ -16,9 +16,9 @@ The Algorithmic Crypto Project is a research and development initiative focused 
 ## Technologies Used
 - **Python**: Primary programming language.
 - **Jupyter Notebook**: Used for research, analysis, and prototyping.
-- **Pandas & NumPy**: Data manipulation and numerical computations.
-- **Matplotlib & Seaborn**: Data visualization.
-- **Scikit-learn & TensorFlow**: Machine learning models.
+- **Pandas**: Data manipulation and numerical computations.
+- **Matplotlib**: Data visualization.
+- **Talib**: TA-Lib is widely used by trading software developers requiring to perform technical analysis of financial market data.
 - **CCXT**: Integration with cryptocurrency exchanges.
 
 ## Getting Started
