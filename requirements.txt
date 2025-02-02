@@ -1,0 +1,12 @@
+pandas
+bt
+talib
+requests
+dotenv
+certifi
+json
+matplotlib
+fpdf
+openai
+markdown
+beautifulsoup4
